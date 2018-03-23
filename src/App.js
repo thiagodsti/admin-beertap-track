@@ -13,9 +13,9 @@ import Hidden from 'material-ui/Hidden';
 import Divider from 'material-ui/Divider';
 import MenuIcon from 'material-ui-icons/Menu';
 import UserIcon from 'react-icons/lib/md/account-box';
+import MenuItem from 'components/MenuItem';
+import Home from 'containers/Home';
 import withRoot from './withRoot';
-import MenuItem from './components/MenuItem';
-import Home from './containers/Home';
 
 
 const drawerWidth = 240;
