@@ -1,5 +1,5 @@
 {
-  "name": "insurance-ui",
+  "name": "admin-beertap-ui",
   "version": "1.0.0",
   "dependencies": {
     "autoprefixer": "7.1.6",
