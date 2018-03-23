@@ -47,16 +47,6 @@ class Home extends React.Component {
     });
   };
 
-
-  handleChange = (event) => {
-    const { target } = event;
-    const value = target.type === 'checkbox' ? target.checked : target.value;
-    const { name } = target;
-    this.setState({
-      [name]: value,
-    });
-  }
-
   fetchUsers = () => {
     TrackAPI.findUsers().then(({ data }) => {
       this.setState({ users: data });
