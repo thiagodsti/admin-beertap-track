@@ -3,8 +3,10 @@
 This is the frontend admin of BeerTap project. 
 This project show informations tracked from the BeerTap project.
 
-The backend you can see here: https://github.com/thiagodsti/beertap.
+The backend you can see here: https://github.com/thiagodsti/beertap
+
 The track script you can see here: https://github.com/thiagodsti/track-script
+
 The beertap application you can see here: https://github.com/thiagodsti/admin-beertap-track
 
 ### Requirements
